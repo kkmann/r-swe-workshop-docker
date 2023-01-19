@@ -1,0 +1,12 @@
+Depends:
+    tidyverse,
+    tidygraph,
+    ggraph,
+    fontawesome,
+    emoji,
+    knitr,
+    readr,
+    rmarkdown,
+    cranlogs,
+    purrr,
+    tools
